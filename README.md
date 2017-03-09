@@ -1,4 +1,4 @@
-# camera calibration and 3D reconstruction using photos of a QR code
+# Camera calibration and 3D reconstruction using photos of a QR code
 
 The QR code pattern and the photos are in the images folder. The original pattern that was photographed is 8.8cm x 8.8cm. A number of images taken from different positions and orientations with an iPhone 6. Each image is the view of a pattern on a flat surface. 
 
@@ -10,7 +10,7 @@ Python codes use the pattern_positions to calibrate the camera and reconstruct t
 show the QR code pattern points in the QR photos
 
 ## show_QRCode_in_3D.py
-Plt the QR code in 3D space
+Plot the QR code in 3D space
 
 ## camera_calibration.py
 calibrate the camera using the cooresponding points in the world and image coordinate
