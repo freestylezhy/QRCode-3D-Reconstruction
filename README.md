@@ -17,3 +17,6 @@ calibrate the camera using the cooresponding points in the world and image coord
 
 ## reconstruct_world_view.py
 reconstruct 3D view of the QR code and the cameras. 
+
+## cameras_in_world_view.png
+This image is a snapshot of the 3D reconstruction result. The arrow in the camer's base denotes the x-axis.
